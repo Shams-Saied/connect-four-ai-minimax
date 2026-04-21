@@ -28,11 +28,11 @@ This allows the AI to simulate intelligent gameplay while maintaining efficiency
 ---
 
 ## Project Structure
-connect4-ai-agent:
-connect4.py # Core game logic (board, rules, win detection)
-algorithms.py # AI algorithms (Minimax, Alpha-Beta pruning, heuristics)
-gui.py # Graphical user interface for gameplay
-notebook.ipynb # Experiments and testing of AI logic
+Connect4-Ai-Agent
+- connect4.py # Core game logic (board, rules, win detection)
+- algorithms.py # AI algorithms (Minimax, Alpha-Beta pruning, heuristics)
+- gui.py # Graphical user interface for gameplay
+- notebook.ipynb # Experiments and testing of AI logic
 
 ---
 
@@ -48,8 +48,7 @@ notebook.ipynb # Experiments and testing of AI logic
 
 ## How to Run
 
-### 1. Install dependencies
+## 1. Install dependencies then run game
 ```bash
 pip install numpy
-### 2. Run the game
 python gui.py
