@@ -28,12 +28,11 @@ This allows the AI to simulate intelligent gameplay while maintaining efficiency
 ---
 
 ## Project Structure
-connect4-ai-agent/
-│
-├── connect4.py # Core game logic (board, rules, win detection)
-├── algorithms.py # AI algorithms (Minimax, Alpha-Beta pruning, heuristics)
-├── gui.py # Graphical user interface for gameplay
-├── notebook.ipynb # Experiments and testing of AI logic
+connect4-ai-agent:
+connect4.py # Core game logic (board, rules, win detection)
+algorithms.py # AI algorithms (Minimax, Alpha-Beta pruning, heuristics)
+gui.py # Graphical user interface for gameplay
+notebook.ipynb # Experiments and testing of AI logic
 
 ---
 
