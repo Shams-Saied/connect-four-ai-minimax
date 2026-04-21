@@ -48,7 +48,7 @@ Connect4-Ai-Agent
 
 ## How to Run
 
-## 1. Install dependencies then run game
+## Install dependencies then run game
 ```bash
 pip install numpy
 python gui.py
